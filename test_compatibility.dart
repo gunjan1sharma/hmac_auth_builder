@@ -71,10 +71,9 @@ void main() {
   print('\n\nTest 4: Signature Verification');
   print('-' * 60);
 
-  final generated = HmacOperations.generateSignature(
-    {'user_id': '123'},
-    'secret',
-  );
+  final generated = HmacOperations.generateSignature({
+    'user_id': '123',
+  }, 'secret');
 
   final verification = HmacOperations.verifySignature(
     {'user_id': '123'},

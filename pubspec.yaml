@@ -1,7 +1,7 @@
 name: hmac_auth_builder
-description: "A new Flutter package project."
+description: "HMAC-based request signing for Dart and Flutter, designed for secure API authentication and webhook verification. The library produces signatures that are compatible with the Node.js package `hmac-auth-builder`, enabling consistent verification between mobile clients and backend services."
 version: 0.0.1
-homepage:
+homepage: "https://github.com/gunjan1sharma/hmac_auth_builder"
 
 environment:
   sdk: ^3.9.2
