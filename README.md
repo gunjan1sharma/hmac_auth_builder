@@ -279,18 +279,48 @@ This package is available under the MIT License. See the `LICENSE` file for deta
 
 ---
 
-## Author
+---
 
-**Gunjan Sharma**  
-Tech Lead working across security, blockchain, and distributed systems. Focused on building reliable, auditable primitives that are easy to adopt across platforms (Node.js, Dart/Flutter, mobile, and backend services).
+## 👨‍💻 Author
 
-- Avatar: `https://camo.githubusercontent.com/29b56cf13f6ce445c37381881d3ce3665c61d007796297a6f649598c952e80a1/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f76322f44344430334151454934565f456c3334546f772f70726f66696c652d646973706c617970686f746f2d736872696e6b5f3430305f3430302f4234445a57304c336e784859416b2d2f302f313734323438343736363435373f653d3137373038353434303026763d6265746126743d426f6952517538457463564e7856322d726149564c32796464697376414d6454346d5a3149714f45784851`
-- Email: [gunjan.sharmo@gmail.com](mailto:gunjan.sharmo@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/gunjan1sharma](https://www.linkedin.com/in/gunjan1sharma)
-- GitHub: [https://github.com/gunjan1sharma](https://github.com/gunjan1sharma)
+<div align="center">
 
-If you find this library useful, consider starring the repository and sharing feedback or improvement ideas via issues or pull requests.
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQEI4V_El34Tow/profile-displayphoto-shrink_400_400/B4DZW0L3nxHYAk-/0/1742484766457?e=1770854400&v=beta&t=BoiRQu8EtcVNxV2-raIVL2yddisvAMdT4mZ1IqOExHQ" alt="Gunjan Sharma" width="120" height="120" style="border-radius: 50%; border: 3px solid #0366d6;" />
 
-```
+### Gunjan Sharma
 
-```
+**Full Stack Architect & Security Engineer**
+
+Building secure, scalable systems for fintech and enterprise applications. Specializing in API security, microservices architecture, and blockchain integrations.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunjan1sharma)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunjan.sharmo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gunjan1sharma)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gunjan1sharma.web.app)
+
+**Open for:**
+
+- 🔐 Security audits and consulting
+- 🚀 System architecture reviews
+- 💼 Freelance projects
+- 🤝 Technical collaborations
+
+</div>
+
+---
+
+## 📄 License
+
+MIT License - see [LICENSE](LICENSE) file for details.
+
+Copyright © 2026 Gunjan Sharma
+
+---
+
+## 🙏 Acknowledgments
+
+- Inspired by [Stripe's webhook signature verification](https://stripe.com/docs/webhooks/signatures)
+- HMAC implementation follows [RFC 2104](https://www.ietf.org/rfc/rfc2104.txt)
+- Timing-safe comparison based on [OpenSSL's approach](https://www.openssl.org/)
+
+---
